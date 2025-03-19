@@ -1,0 +1,25 @@
+name  haiku_wallpapers_nature
+version  0.1-2
+architecture   any
+summary   "A collection of wallpapers for Haiku"
+description   "Haiku wallpapers for users.
+These package provide wallpapers about nature.
+Include 4K and 1080p.After installation they can 
+be found in dir below:
+/boot/system/data/artwork/wallpaper
+
+Contributors:
+edouardlicn,
+rioredxsoto
+
+Package distribute on CC-BY 4.0
+"
+packager   "edouardlicn"
+vendor   "Haiku contributors"
+copyrights   "2024-2025 Haiku contributors"
+licenses   "CC-BY 4.0"
+provides {
+
+haiku_wallpapers_nature = 0.1-2
+
+}
