@@ -1,5 +1,5 @@
 name  haiku_wallpapers_nature
-version  0.1-2
+version  0.2-1
 architecture   any
 summary   "A collection of wallpapers for Haiku"
 description   "Haiku wallpapers for users.
@@ -10,7 +10,8 @@ be found in dir below:
 
 Contributors:
 edouardlicn,
-rioredxsoto
+rioredxsoto,
+TheClue
 
 Package distribute on CC-BY 4.0
 "
@@ -20,6 +21,6 @@ copyrights   "2024-2025 Haiku contributors"
 licenses   "CC-BY 4.0"
 provides {
 
-haiku_wallpapers_nature = 0.1-2
+haiku_wallpapers_nature = 0.2-1
 
 }

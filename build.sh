@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Version
-VERSION="0.1-2"
+VERSION="0.2-1"
 
 # Packname and Arch
 PACKAGE_BASE="haiku_wallpaper_nature"
