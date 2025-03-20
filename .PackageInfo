@@ -1,10 +1,10 @@
 name  haikuos_wallpapers_nature
-version  0.2-1
+version  0.3-3
 architecture   any
 summary   "A collection of wallpapers for HaikuOS"
 description   "Haiku wallpapers for users.
 These package provide wallpapers about nature.
-Include 4K and 1080p.After installation they can 
+All in 4K.After installation they can 
 be found in dir below:
 /boot/system/data/artwork/wallpaper
 
@@ -21,6 +21,6 @@ copyrights   "2024-2025 Haiku contributors"
 licenses   "CC-BY 4.0"
 provides {
 
-haiku_wallpapers_nature = 0.2-1
+haikuos_wallpapers_nature = 0.3-3
 
 }
