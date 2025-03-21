@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Version
-VERSION="0.3-3"
+VERSION="0.3-4"
 
 # Packname and Arch
-PACKAGE_BASE="haikuos_wallpapers_nature"
+PACKAGE_BASE="wallpapers_nature"
 ARCH="any"
 
 # package name

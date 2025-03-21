@@ -1,4 +1,4 @@
-# Haikuos-wallpapers-nature
+# wallpapers-nature
 
 A collection of wallpapers for HaikuOS
 
