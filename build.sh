@@ -6,9 +6,10 @@ VERSION="0.3-4"
 # Packname and Arch
 PACKAGE_BASE="wallpapers_nature"
 ARCH="any"
+USER_DIR="$HOME"
 
 # package name
-PACKAGE_NAME="${PACKAGE_BASE}-${VERSION}-${ARCH}.hpkg"
+PACKAGE_NAME="${USER_DIR}/${PACKAGE_BASE}-${VERSION}-${ARCH}.hpkg"
 
 # Build a package
 
